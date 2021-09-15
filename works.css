@@ -44,3 +44,7 @@ body{
 .btn {
     color:#64ffda;
 }
+
+.navbar-default .navbar-toggle, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #0a192f;
+}
